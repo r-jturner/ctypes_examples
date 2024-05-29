@@ -1,0 +1,5 @@
+# Byte-compiled DLL files
+__pycache__/
+wrapper/__pycache__/
+# Local virtual environment
+venv/
